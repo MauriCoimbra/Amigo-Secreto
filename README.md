@@ -31,7 +31,7 @@ O objetivo deste projeto é criar uma aplicação que sorteia amigos secretos en
     ```
 2. Navegue até o diretório do projeto:
     ```sh
-    cd challenge-amigo-secreto_pt-main
+    cd challenge-amigo-secreto
     ```
 3. Instale as dependências:
     ```sh
