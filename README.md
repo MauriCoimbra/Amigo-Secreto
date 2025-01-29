@@ -27,7 +27,7 @@ O objetivo deste projeto é criar uma aplicação que sorteia amigos secretos en
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/MauriCoimbra/amigo-secreto.git
+    https://github.com/MauriCoimbra/amigo-secreto.git
     ```
 2. Navegue até o diretório do projeto:
     ```sh
