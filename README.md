@@ -29,20 +29,8 @@ O objetivo deste projeto é criar uma aplicação que sorteia amigos secretos en
     ```sh
     https://github.com/MauriCoimbra/amigo-secreto.git
     ```
-2. Navegue até o diretório do projeto:
-    ```sh
-    cd challenge-amigo-secreto
-    ```
-3. Instale as dependências:
-    ```sh
-    npm install
-    ```
-4. Execute a aplicação:
-    ```sh
-    npm start
-    ```
 
-
+    
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
