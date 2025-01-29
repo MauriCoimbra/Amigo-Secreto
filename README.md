@@ -22,11 +22,12 @@ O objetivo deste projeto é criar uma aplicação que sorteia amigos secretos en
 - Linguagem de Programação: JavaScript 
 - Mecanismo de estilo: CSS
 
+
 ## Como Executar
 
 1. Clone o repositório:
     ```sh
-    https://github.com/MauriCoimbra/Amigo-Secreto.git
+    git clone https://github.com/seu-usuario/challenge-amigo-secreto_pt-main.git
     ```
 2. Navegue até o diretório do projeto:
     ```sh
@@ -34,12 +35,13 @@ O objetivo deste projeto é criar uma aplicação que sorteia amigos secretos en
     ```
 3. Instale as dependências:
     ```sh
-    [Comando para instalar dependências]
+    npm install
     ```
 4. Execute a aplicação:
     ```sh
-    [Comando para executar a aplicação]
+    npm start
     ```
+
 
 ## Contribuição
 
